@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     /**
+     * Realiza un programa en Java que reciba n cantidad de números, posteriormente los sume y regrese su resultado.
      * @param args
      */
     public static void main(String[] args) {
